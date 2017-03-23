@@ -1,0 +1,9 @@
+[General]
+Output=c:\REPO\newdb77\Exch.log
+Quit=1
+AutoExchange=1
+
+[AutoExchange]
+SharedMode=1
+ReadFrom=IB
+WriteTo=IB
