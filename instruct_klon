@@ -5,5 +5,5 @@ AutoExchange=1
 
 [AutoExchange]
 SharedMode=1
-WriteTo=IB
-ReadFrom=IB
+WriteTo=жа
+ReadFrom=жа
