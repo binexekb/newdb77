@@ -1,9 +1,9 @@
 [General]
 Output=c:\REPO\newdb77\Exch_klon.log
-Quit=1
+Quit=0
 AutoExchange=1
 
 [AutoExchange]
 SharedMode=1
-WriteTo=жа
 ReadFrom=жа
+WriteTo=жа

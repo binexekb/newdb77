@@ -1,6 +1,6 @@
 [General]
 Output=c:\REPO\newdb77\Exch.log
-Quit=1
+Quit=0
 AutoExchange=1
 
 [AutoExchange]
